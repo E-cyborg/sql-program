@@ -15,4 +15,4 @@ Contributions:
 Contributions, bug reports, and feature requests are welcome! Feel free to submit issues or pull requests to help improve this project.
 
 Author:
-This program was developed by Cyborg [E-cyborg](https://github.com/E-cyborg/).
+This program was developed by [E-cyborg](https://github.com/E-cyborg/).
